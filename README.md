@@ -19,21 +19,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,dart,nodejs,angular,java,mysql,mongodb,figma,github,git" />
 </p>
 
---
-
-## 📊 GitHub Stats  
-> *Nanti otomatis muncul setelah kamu ganti USERNAME.*
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" />https://www.instagram.com/puonaav/?utm_source=ig_web_button_share_sheet</a>
+  <a href="instagram.com/puonaav"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
