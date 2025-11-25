@@ -1,5 +1,14 @@
+<h1 align="center">Hi, I'm Putri Fathonah! 🌸</h1>
 
-### 👋 Hi, I'm Putri!
+<p align="center">
+  <b>✨ Student • Tech Enthusiast • Future Developer ✨</b>
+</p>
 
-`Fullstack Developer` <br/>
-`Sharing About my Journey and Learning in Tech` <br/>
+<p align="center">
+  I love learning about <b>mobile development</b>, <b>web apps</b>, <b>databases</b>, and anything that helps me build meaningful digital experiences.  
+  Always growing, always exploring. 🚀
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4&label=Profile+Views" />
+</p>
