@@ -33,8 +33,7 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" />https://www.instagram.com/puonaav/?utm_source=ig_web_button_share_sheet</a>
 </p>
 
 ---
