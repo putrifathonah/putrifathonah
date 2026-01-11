@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Putri Fathonah! 🌸</h1>
 
 <p align="center">
-  <b>✨ Student • Tech Enthusiast • Future Developer ✨</b>
+  <b>✨ Student • Tech Enthusiast ✨</b>
 </p>
 
 <p align="center">
