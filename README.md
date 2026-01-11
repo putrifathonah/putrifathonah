@@ -33,7 +33,3 @@
   <br/>
   <i>Let’s learn, build, and grow together 🌸</i>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4&label=Profile+Views" />
-</p>
