@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  I love exploring mobile development, web apps, UI/UX design, and database systems.  
-  Always learning, always building, always growing. 🚀
+I'm an Information Systems student with an interest in Web Development
 </p>
 
 ---
